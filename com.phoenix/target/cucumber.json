@@ -1,0 +1,328 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 6,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 297000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user is on test environment homepage",
+            "match": {
+              "location": "stepDefinitions.LoginSteps.user_is_on_test_environment_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 54000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user click on myaccount button",
+            "match": {
+              "location": "stepDefinitions.LoginSteps.user_click_on_myaccount_button()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-02-02T21:18:21.156Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2769000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Login to Test Environment Retail Page",
+        "description": "",
+        "id": "test-environment-retail-page;login-to-test-environment-retail-page",
+        "after": [
+          {
+            "result": {
+              "duration": 605000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 253000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user click on login button",
+            "match": {
+              "location": "stepDefinitions.LoginSteps.user_click_on_login_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 145000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user enter username and password",
+            "match": {
+              "location": "stepDefinitions.LoginSteps.user_enter_username_and_password()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 315000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user click on login button to login to the page",
+            "match": {
+              "location": "stepDefinitions.LoginSteps.user_click_on_login_button_to_login_to_the_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@login"
+          },
+          {
+            "name": "@endtoend"
+          }
+        ]
+      }
+    ],
+    "name": "Test Environment Retail Page",
+    "description": "",
+    "id": "test-environment-retail-page",
+    "keyword": "Feature",
+    "uri": "classpath:features/login.feature",
+    "tags": []
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 266000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on test environment homepage",
+            "match": {
+              "location": "stepDefinitions.LoginSteps.user_is_on_test_environment_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 49000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user click on myaccount button",
+            "match": {
+              "location": "stepDefinitions.LoginSteps.user_click_on_myaccount_button()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-02-02T21:18:25.641Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2263000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "Register with Test Environment Webpage",
+        "description": "",
+        "id": "test-environment-retail-page;register-with-test-environment-webpage",
+        "after": [
+          {
+            "result": {
+              "duration": 625000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 649000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user click on register button",
+            "match": {
+              "location": "stepDefinitions.RegisterSteps.user_click_on_register_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 439000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user fill registeration form with information below",
+            "match": {
+              "location": "stepDefinitions.RegisterSteps.user_fill_registeration_form_with_information_below(io.cucumber.datatable.DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "firstname",
+                  "lastname",
+                  "email",
+                  "telephone",
+                  "password",
+                  "confirmPassword"
+                ]
+              },
+              {
+                "cells": [
+                  "John",
+                  "Colunga",
+                  "johncolunga2388@gmail.com",
+                  "4024443434",
+                  "johncolunga33399",
+                  "johncolunga33399"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 48000000,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "user click on agree to terms checkbox",
+            "match": {
+              "location": "stepDefinitions.RegisterSteps.user_click_on_agree_to_terms_checkbox()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6253000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "user click on continue button",
+            "match": {
+              "location": "stepDefinitions.RegisterSteps.user_click_on_continue_button()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@register"
+          },
+          {
+            "name": "@endtoend"
+          },
+          {
+            "name": "@smoke"
+          },
+          {
+            "name": "@regression"
+          },
+          {
+            "name": "@login"
+          }
+        ]
+      }
+    ],
+    "name": "Test Environment Retail Page",
+    "description": "",
+    "id": "test-environment-retail-page",
+    "keyword": "Feature",
+    "uri": "classpath:features/register.feature",
+    "tags": [
+      {
+        "name": "@register",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      },
+      {
+        "name": "@endtoend",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 11
+        }
+      },
+      {
+        "name": "@smoke",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 21
+        }
+      },
+      {
+        "name": "@regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 28
+        }
+      },
+      {
+        "name": "@login",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 40
+        }
+      }
+    ]
+  }
+]

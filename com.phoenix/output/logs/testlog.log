@@ -1,0 +1,254 @@
+2022-01-11 21:23:19,917 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:23:33,687 - logger_File -INFO - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-11 21:24:10,279 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:24:15,595 - logger_File -INFO - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-11 21:26:45,833 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:26:50,654 - logger_File -INFO - Scenario Login to Test Environment Retail Page PENDING
+2022-01-11 21:27:19,072 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:27:23,877 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-11 21:32:33,961 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:32:38,822 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-11 21:33:59,062 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:34:04,419 - logger_File -INFO - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-12 12:00:48,418 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:00:53,029 - logger_File -INFO - Text verified!
+2022-01-12 12:00:54,420 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:05:11,857 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:05:16,015 - logger_File -INFO - Text verified!
+2022-01-12 12:05:17,591 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:09:24,277 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:09:28,527 - logger_File -INFO - Text verified!
+2022-01-12 12:09:29,978 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:13:44,035 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:13:47,588 - logger_File -INFO - Text verified!
+2022-01-12 12:13:48,967 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:30:35,691 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:30:39,309 - logger_File -INFO - Text verified!
+2022-01-12 12:30:40,741 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:40:53,837 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:40:57,240 - logger_File -INFO - Text verified!
+2022-01-12 12:40:58,649 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:42:52,711 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:42:56,011 - logger_File -INFO - Text verified!
+2022-01-12 12:42:57,357 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 14:10:37,940 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 14:10:42,325 - logger_File -INFO - Text verified!
+2022-01-12 14:10:43,985 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 16:43:30,022 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 16:43:34,178 - logger_File -INFO - Text verified!
+2022-01-12 16:43:35,602 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 18:53:48,275 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 18:53:51,878 - logger_File -INFO - Text verified!
+2022-01-12 18:53:53,525 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 19:50:18,180 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 19:50:23,705 - logger_File -INFO - Text verified!
+2022-01-12 19:50:23,706 - logger_File -INFO - Homepage validated successfully
+2022-01-12 19:50:25,855 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 19:57:29,725 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 19:57:33,739 - logger_File -INFO - Text verified!
+2022-01-12 19:57:33,740 - logger_File -INFO - Homepage validated successfully
+2022-01-12 19:57:33,811 - logger_File -INFO - My account button was clicked successfully
+2022-01-12 19:57:34,126 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 19:57:34,461 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-12 19:57:34,813 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 19:57:35,669 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 21:15:06,327 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 21:15:10,889 - logger_File -INFO - Text verified!
+2022-01-12 21:15:10,890 - logger_File -INFO - Homepage validated successfully
+2022-01-12 21:15:11,058 - logger_File -INFO - My account button was clicked successfully
+2022-01-12 21:15:11,426 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 21:15:11,750 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-12 21:15:12,112 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 21:15:13,043 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 21:23:45,614 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 21:23:50,540 - logger_File -INFO - Text verified!
+2022-01-12 21:23:50,542 - logger_File -INFO - Homepage validated successfully
+2022-01-12 21:23:51,026 - logger_File -INFO - My account button was clicked successfully
+2022-01-12 21:23:51,363 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 21:23:51,657 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-12 21:23:51,929 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 21:23:52,844 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 21:27:16,160 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 21:27:20,598 - logger_File -INFO - Text verified!
+2022-01-12 21:27:20,599 - logger_File -INFO - Homepage validated successfully
+2022-01-12 21:27:21,265 - logger_File -INFO - My account button was clicked successfully
+2022-01-12 21:27:21,552 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 21:27:21,798 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-12 21:27:22,078 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 21:27:23,012 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 21:35:49,633 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-12 21:35:55,860 - logger_File -INFO - Text verified!
+2022-01-12 21:35:55,860 - logger_File -INFO - Homepage validated successfully
+2022-01-12 21:35:57,621 - logger_File -INFO - My account button was clicked successfully
+2022-01-12 21:35:58,383 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 21:35:59,043 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-12 21:35:59,752 - logger_File -INFO - Login button was clicked successfully
+2022-01-12 21:36:01,115 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 17:45:02,078 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 17:45:07,302 - logger_File -INFO - Text verified!
+2022-01-13 17:45:07,302 - logger_File -INFO - Homepage validated successfully
+2022-01-13 17:45:07,790 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 17:45:08,027 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 17:45:08,192 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-13 17:45:08,449 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 17:45:09,149 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 17:45:09,162 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 17:45:12,921 - logger_File -INFO - Text verified!
+2022-01-13 17:45:12,921 - logger_File -INFO - Homepage validated successfully
+2022-01-13 17:45:13,317 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 17:45:13,525 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 17:45:13,673 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-13 17:45:13,884 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 17:45:14,594 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 17:45:14,601 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 17:45:17,622 - logger_File -INFO - Text verified!
+2022-01-13 17:45:17,622 - logger_File -INFO - Homepage validated successfully
+2022-01-13 17:45:18,037 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 17:45:18,298 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 17:45:18,434 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-13 17:45:18,665 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 17:45:19,376 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 19:13:12,584 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:13:17,203 - logger_File -INFO - Text verified!
+2022-01-13 19:13:17,203 - logger_File -INFO - Homepage validated successfully
+2022-01-13 19:13:17,801 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 19:13:18,183 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:13:18,521 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-13 19:13:18,965 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:13:19,885 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 19:25:03,241 - logger_File -INFO - Scenario Land user on myAccount tab Started
+2022-01-13 19:25:07,475 - logger_File -INFO - Text verified!
+2022-01-13 19:25:07,475 - logger_File -INFO - Homepage validated successfully
+2022-01-13 19:25:08,167 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 19:25:09,114 - logger_File -INFO - Scenario Land user on myAccount tab PASSED
+2022-01-13 19:25:09,125 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:25:16,721 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:34:09,015 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:34:13,515 - logger_File -INFO - Text verified!
+2022-01-13 19:34:13,516 - logger_File -INFO - Homepage validated successfully
+2022-01-13 19:34:14,121 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 19:34:14,440 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:34:14,758 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-13 19:34:15,104 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:34:16,069 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 19:54:05,326 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:54:09,697 - logger_File -INFO - Text verified!
+2022-01-13 19:54:09,698 - logger_File -INFO - Homepage validated successfully
+2022-01-13 19:54:10,239 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 19:54:10,559 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:54:10,814 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-13 19:54:11,112 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:54:12,005 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 19:54:12,032 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:54:15,487 - logger_File -INFO - Text verified!
+2022-01-13 19:54:15,488 - logger_File -INFO - Homepage validated successfully
+2022-01-13 19:54:15,959 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 19:54:16,262 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:54:17,154 - logger_File -INFO - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-13 19:54:17,162 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:54:20,173 - logger_File -INFO - Text verified!
+2022-01-13 19:54:20,174 - logger_File -INFO - Homepage validated successfully
+2022-01-13 19:54:20,700 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 19:54:20,963 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:54:21,848 - logger_File -INFO - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-13 19:54:21,853 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:54:25,101 - logger_File -INFO - Text verified!
+2022-01-13 19:54:25,102 - logger_File -INFO - Homepage validated successfully
+2022-01-13 19:54:25,563 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 19:54:25,919 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 19:54:26,826 - logger_File -INFO - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-13 20:06:18,825 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 20:06:23,297 - logger_File -INFO - Text verified!
+2022-01-13 20:06:23,299 - logger_File -INFO - Homepage validated successfully
+2022-01-13 20:06:23,923 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 20:06:24,275 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 20:06:24,920 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 20:06:25,803 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 20:06:25,818 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 20:06:28,807 - logger_File -INFO - Text verified!
+2022-01-13 20:06:28,807 - logger_File -INFO - Homepage validated successfully
+2022-01-13 20:06:29,438 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 20:06:29,832 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 20:06:30,694 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 20:06:31,632 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 20:06:31,641 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 20:06:34,890 - logger_File -INFO - Text verified!
+2022-01-13 20:06:34,891 - logger_File -INFO - Homepage validated successfully
+2022-01-13 20:06:35,344 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 20:06:35,682 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 20:06:36,534 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 20:06:37,493 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 21:12:22,925 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-01-13 21:12:27,520 - logger_File -INFO - Text verified!
+2022-01-13 21:12:27,521 - logger_File -INFO - Homepage validated successfully
+2022-01-13 21:12:28,114 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 21:12:28,992 - logger_File -INFO - Scenario Register with Test Environment Webpage UNDEFINED
+2022-01-13 21:44:50,825 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-01-13 21:44:56,641 - logger_File -INFO - Text verified!
+2022-01-13 21:44:56,642 - logger_File -INFO - Homepage validated successfully
+2022-01-13 21:44:57,161 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 21:44:57,899 - logger_File -INFO - Register button was clicked successfully
+2022-01-13 21:44:58,628 - logger_File -INFO - User data entered successfully
+2022-01-13 21:44:58,704 - logger_File -INFO - Agree to terms check box selected successfully
+2022-01-13 21:44:59,598 - logger_File -INFO - Continue button clicked successfully
+2022-01-13 21:45:06,518 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-01-13 21:55:42,372 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-01-13 21:55:46,694 - logger_File -INFO - Text verified!
+2022-01-13 21:55:46,695 - logger_File -INFO - Homepage validated successfully
+2022-01-13 21:55:47,299 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 21:55:47,700 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 21:55:48,044 - logger_File -INFO - Username and Passwerd entered successfully
+2022-01-13 21:55:48,486 - logger_File -INFO - Login button was clicked successfully
+2022-01-13 21:55:49,393 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 21:55:49,406 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-01-13 21:55:52,662 - logger_File -INFO - Text verified!
+2022-01-13 21:55:52,662 - logger_File -INFO - Homepage validated successfully
+2022-01-13 21:55:53,474 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 21:55:54,403 - logger_File -INFO - Register button was clicked successfully
+2022-01-13 21:55:55,241 - logger_File -INFO - User data entered successfully
+2022-01-13 21:55:55,349 - logger_File -INFO - Agree to terms check box selected successfully
+2022-01-13 21:55:56,218 - logger_File -INFO - Continue button clicked successfully
+2022-01-13 21:56:03,210 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-01-13 21:59:33,027 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-01-13 21:59:37,775 - logger_File -INFO - Text verified!
+2022-01-13 21:59:37,776 - logger_File -INFO - Homepage validated successfully
+2022-01-13 21:59:38,354 - logger_File -INFO - My account button was clicked successfully
+2022-01-13 21:59:39,060 - logger_File -INFO - Register button was clicked successfully
+2022-01-13 21:59:39,871 - logger_File -INFO - User data entered successfully
+2022-01-13 21:59:39,982 - logger_File -INFO - Agree to terms check box selected successfully
+2022-01-13 21:59:40,640 - logger_File -INFO - Continue button clicked successfully
+2022-01-13 21:59:47,564 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-02-02 16:17:49,476 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-02-02 16:17:52,838 - logger_File -INFO - Text verified!
+2022-02-02 16:17:52,839 - logger_File -INFO - Homepage validated successfully
+2022-02-02 16:17:53,128 - logger_File -INFO - My account button was clicked successfully
+2022-02-02 16:17:53,350 - logger_File -INFO - Login button was clicked successfully
+2022-02-02 16:17:53,500 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-02 16:17:53,809 - logger_File -INFO - Login button was clicked successfully
+2022-02-02 16:17:54,430 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-02-02 16:17:54,439 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-02 16:17:56,780 - logger_File -INFO - Text verified!
+2022-02-02 16:17:56,780 - logger_File -INFO - Homepage validated successfully
+2022-02-02 16:17:57,085 - logger_File -INFO - My account button was clicked successfully
+2022-02-02 16:17:57,711 - logger_File -INFO - Register button was clicked successfully
+2022-02-02 16:17:58,094 - logger_File -INFO - User data entered successfully
+2022-02-02 16:17:58,149 - logger_File -INFO - Agree to terms check box selected successfully
+2022-02-02 16:17:58,407 - logger_File -INFO - Continue button clicked successfully
+2022-02-02 16:18:05,017 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED
+2022-02-02 16:18:21,220 - logger_File -INFO - Scenario Login to Test Environment Retail Page Started
+2022-02-02 16:18:24,004 - logger_File -INFO - Text verified!
+2022-02-02 16:18:24,004 - logger_File -INFO - Homepage validated successfully
+2022-02-02 16:18:24,314 - logger_File -INFO - My account button was clicked successfully
+2022-02-02 16:18:24,568 - logger_File -INFO - Login button was clicked successfully
+2022-02-02 16:18:24,714 - logger_File -INFO - Username and Passwerd entered successfully
+2022-02-02 16:18:25,028 - logger_File -INFO - Login button was clicked successfully
+2022-02-02 16:18:25,634 - logger_File -INFO - Scenario Login to Test Environment Retail Page PASSED
+2022-02-02 16:18:25,644 - logger_File -INFO - Scenario Register with Test Environment Webpage Started
+2022-02-02 16:18:27,932 - logger_File -INFO - Text verified!
+2022-02-02 16:18:27,933 - logger_File -INFO - Homepage validated successfully
+2022-02-02 16:18:28,221 - logger_File -INFO - My account button was clicked successfully
+2022-02-02 16:18:28,871 - logger_File -INFO - Register button was clicked successfully
+2022-02-02 16:18:29,309 - logger_File -INFO - User data entered successfully
+2022-02-02 16:18:29,358 - logger_File -INFO - Agree to terms check box selected successfully
+2022-02-02 16:18:29,609 - logger_File -INFO - Continue button clicked successfully
+2022-02-02 16:18:36,236 - logger_File -INFO - Scenario Register with Test Environment Webpage PASSED

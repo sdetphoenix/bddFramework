@@ -1,0 +1,5 @@
+core\Base.class
+utilities\CucumberReportingConfig.class
+utilities\Utilities.class
+pageObjects\LoginPageObjects.class
+pageObjects\RegisterPageObjects.class
